@@ -7,7 +7,9 @@ TeleGetid is a simple Telegram bot that allows you to retrieve user IDs. It is b
 - Simple setup and usage.
 
 ## Online use
+[tele_get_id_bot](https://t.me/tele_get_id_bot)
 
+![](1.png)
 
 ## How to use
 

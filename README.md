@@ -20,7 +20,7 @@ TeleGetid is a simple Telegram bot that allows you to retrieve user IDs. It is b
 
 ### OneClick
 ```sh
-bash <(curl -L -s https://raw.githubusercontent.com/TeleGetid/refs/heads/main/1click.sh)
+bash <(curl -L -s https://raw.githubusercontent.com/Pmaru-top/TeleGetid/refs/heads/main/1click.sh)
 ```
 
 ## How to get bot token
